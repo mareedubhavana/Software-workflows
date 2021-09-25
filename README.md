@@ -1,2 +1,1 @@
-# Software-workflows
-it is my first learning project
+iam a new training in software worflow project
