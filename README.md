@@ -1,2 +1,2 @@
 # Software-workflows
-it is my second project
+it is my first learning project
